@@ -1,4 +1,4 @@
-# linux-website
+# website
 ## Linux website project
 ...
 sudo apt update -y
