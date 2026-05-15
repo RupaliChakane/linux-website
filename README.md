@@ -1,5 +1,5 @@
 # linux-website
-##Linux website project
+## Linux website project
 ...
 sudo apt update -y
 sudo apt install apache2
